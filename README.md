@@ -6,4 +6,4 @@ Camera calibration out of MP4 file
 2. 
 
 # Example
-1.
+1. git clone https://github.com/Maxim-CE/camera-calibration.git
