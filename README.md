@@ -9,4 +9,6 @@ Camera calibration out of MP4 file
 Clone the repository:
 ```
 git clone https://github.com/Maxim-CE/camera-calibration.git
+cd camera-calibration
+python Calibration.py WebCam.mp4
 ```
