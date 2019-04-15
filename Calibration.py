@@ -1,4 +1,4 @@
-###For more information about camer calibration and original calibration
+###For more information about camera calibration and original calibration
 ###code please visit: https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html
 
 import sys
