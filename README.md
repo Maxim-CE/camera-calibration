@@ -5,7 +5,7 @@ Camera calibration out of MP4 file to gain camera matrix and distortion coeffici
 1. Create MP4 video file via your camera filming `Calibration_Grid.png` from different angles.
 2. Save your video file to cloned repository.
 3. ```python Calibration.py your_video_file.mp4```
-4. Wait for the process to finish, camera matrinx and distortion coefficients will be printed.
+4. Wait for the process to finish, camera matrix and distortion coefficients will be printed.
 
 # Example
 Clone the repository:
@@ -29,3 +29,6 @@ p1: 0.00304382955902
 p2: 0.000725384370557
 k3: 20.295080211
 ```
+
+# Information
+For more information about camera calibration and original calibration code from this repository please visit: https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html
