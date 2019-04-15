@@ -15,7 +15,7 @@ cd camera-calibration
 python Calibration.py WebCam.mp4
 ```
 For calibrating `WebCam.mp4` you will receive the following output:
-``
+```
 Camera matrix:
 fx: 461.055785824
 fy: 462.176713292
@@ -28,4 +28,4 @@ k2: -7.12936636647
 p1: 0.00304382955902
 p2: 0.000725384370557
 k3: 20.295080211
-``
+```
