@@ -14,7 +14,7 @@ git clone https://github.com/Maxim-CE/camera-calibration.git
 cd camera-calibration
 python Calibration.py WebCam.mp4
 ```
-For calibrating `WebCam.mp4` you will receive the following output:
+After calibrating `WebCam.mp4` you will receive the following output:
 ```
 Camera matrix:
 fx: 461.055785824
